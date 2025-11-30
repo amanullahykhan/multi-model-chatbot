@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+.env
+*.log
+model_performance.json
